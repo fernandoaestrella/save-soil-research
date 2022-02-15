@@ -99,7 +99,7 @@ https://www.instagram.com/aloricard/?hl=en"""
 instaloader_instance = Instaloader()
 
 twitter_auth = tweepy.OAuth2BearerHandler(
-    "YOUR_TOKEN_HERE")
+    "AAAAAAAAAAAAAAAAAAAAAJS4ZAEAAAAAx5jXU42rUN3kThXshHj0HOH8tbU%3DRg06IEV8puXluNiCAij5iRCGYeuONbBduouJHtNd3wSOAEhCm5")
 twitter_api = tweepy.API(twitter_auth)
 twitter_URL_list = """https://twitter.com/plazadelasalud
 https://twitter.com/plazalama?lang=en
