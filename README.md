@@ -4,7 +4,7 @@ Helps find the desired social media URLs related to a given input text.
 It does so by automatically searching Google with the text in a file called input.txt that must be in the same directory as the executable.  
 Each line in that input file will result in a new output line.  
 An empty input line will result in an empty output line.  
-The input file is mainly intended for organizations' names. Sometimes you'll need to add some text after the organization's name to help disambiguate, to help increase the possibility that Google finds what you intend it to find.  
+The input file is mainly intended for organizations' names. Sometimes you'll need to add some text after the organization's name to help disambiguate, to help increase the possibility that Google finds what you intend it to find. For example, instead of just leaving "Isha" as input text, you may write "Isha USA" to directly find what you want.  
 
 Each output line will contain:  
   1. Instagram URL
@@ -17,6 +17,10 @@ Each output line will contain:
   8. Main URL
   
 The output file is called output.csv and can be opened as a spreadsheet.  
-If it stops running at a given moment (check every 5 to 10 min), delete the input lines related to inputs it has correctly found already and run it again. It does happen with some frequency.
+If it stops running at a given moment (check every 5 to 10 min), delete the input lines related to inputs it has correctly found already and run it again. It does happen with some frequency.  
+The executable open a command prompt window and promts you for your instagram username and password, in order to be able to grab the instagram followers as desired.
+
+Example output:
+Agro Banacaribe,,,,,https://www.instagram.com/agrocaribe19/,0.109,https://www.facebook.com/pages/category/Local-Business/AGROBANACARIBE-509239295831261/,,https://twitter.com/Agro7ca/status/884957666174533632,0.015,https://co.linkedin.com/in/jiovany-p%C3%A9rez-valencia-64b890130,,https://www.youtube.com/watch?v=eNDke7xyBKw,,https://www.bancaribe.com.ve/zona-de-informacion-para-cada-mercado/corporaciones/soluciones-financieras/creditos-soluciones-financieras/linea-agropecuaria,,https://www.bancaribe.com.ve/zona-de-informacion-para-cada-mercado/corporaciones/soluciones-financieras/creditos-soluciones-financieras/linea-agropecuaria,,
 
 Enjoy your time back!
