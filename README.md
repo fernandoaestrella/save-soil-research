@@ -8,10 +8,10 @@ The input file is mainly intended for organizations' names. Sometimes you'll nee
 
 Each output line will contain:  
   1. Instagram URL
-  2. Number of Instagram follower
+  2. Number of Instagram follower (divided by 1000)
   3. Facebook URL
   4. Twitter URL
-  5. Number of Twitter followers
+  5. Number of Twitter followers (divided by 1000)
   6. LinkedIn URL
   7. Youtube URL
   8. "Contact Us" URL
