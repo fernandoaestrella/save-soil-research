@@ -12,9 +12,10 @@ Each output line will contain:
   3. Facebook URL
   4. Twitter URL
   5. Number of Twitter followers
-  6. Youtube URL
-  7. "Contact Us" URL
-  8. Main URL
+  6. LinkedIn URL
+  7. Youtube URL
+  8. "Contact Us" URL
+  9. Main URL
   
 The output file is called output.csv and can be opened as a spreadsheet.  
 If it stops running at a given moment (check every 5 to 10 min), delete the input lines related to inputs it has correctly found already and run it again. It does happen with some frequency.  
