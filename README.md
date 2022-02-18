@@ -4,7 +4,7 @@ Helps find the desired social media URLs related to a given input text
 It does so by automatically searching Google with the text in a file called input.txt that must be in the same directory as the executable  
 Each line in that input file will result in a new output line  
 An empty input line will result in an empty output line  
-The input file is mainly intended for company names. Sometimes you'll need to add some text after the company name to help disambiguate, to help increase the possibility that Google finds what you intend it to find  
+The input file is mainly intended for organizations' names. Sometimes you'll need to add some text after the company name to help disambiguate, to help increase the possibility that Google finds what you intend it to find  
 
 Each output line will contain:  
   1. Instagram URL
