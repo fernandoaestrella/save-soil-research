@@ -24,4 +24,10 @@ The executable open a command prompt window and promts you for your instagram us
 Example single output line:  
 Agro Banacaribe,,,,,https://www.instagram.com/agrocaribe19/,0.109,https://www.facebook.com/pages/category/Local-Business/AGROBANACARIBE-509239295831261/,,https://twitter.com/Agro7ca/status/884957666174533632,0.015,https://co.linkedin.com/in/jiovany-p%C3%A9rez-valencia-64b890130,,https://www.youtube.com/watch?v=eNDke7xyBKw,,https://www.bancaribe.com.ve/zona-de-informacion-para-cada-mercado/corporaciones/soluciones-financieras/creditos-soluciones-financieras/linea-agropecuaria,,https://www.bancaribe.com.ve/zona-de-informacion-para-cada-mercado/corporaciones/soluciones-financieras/creditos-soluciones-financieras/linea-agropecuaria,,
 
-Enjoy your time back!
+USAGE in Windows
+1. Go to the dist folder
+2. Put what you want to look for in each line of the input file
+3. Clear the output.txt file if needed
+4. Run social_media_analyzer_with_input_file.exe by double clicking it
+5. Enter your instagram credentials
+6. Enjoy your time back!
