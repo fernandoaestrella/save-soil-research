@@ -25,8 +25,8 @@ search_params = ["Instagram", "Facebook",
 current_line = ''
 output_text = ''
 
-# instagram_login_name = input("Enter your instagram username: ")
-instagram_login_name = 'fernandoaestrella'
+instagram_login_name = input("Enter your instagram username: ")
+# instagram_login_name = 'fernandoaestrella'
 instaloader_instance = Instaloader()
 twitter_auth = tweepy.OAuth2BearerHandler(
     "AAAAAAAAAAAAAAAAAAAAAJS4ZAEAAAAAx5jXU42rUN3kThXshHj0HOH8tbU%3DRg06IEV8puXluNiCAij5iRCGYeuONbBduouJHtNd3wSOAEhCm5")
