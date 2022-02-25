@@ -10,24 +10,28 @@ Each output line will contain:
   1. Instagram URL
   2. Number of Instagram follower (divided by 1000)
   3. Facebook URL
-  4. Twitter URL
-  5. Number of Twitter followers (divided by 1000)
-  6. LinkedIn URL
-  7. Youtube URL
-  8. "Contact Us" URL
-  9. Main URL
-  
+  4. Number of facebook likes (divided by 1000)
+  5. Twitter URL
+  6. Number of Twitter followers (divided by 1000)
+  7. LinkedIn URL
+  8. Youtube URL
+  9. TikTok URL
+  10. Number of TikTok followers (divided by 1000)
+  11. "Contact Us" URL
+  12. Main URL
+
+The numbers of followers will only appear if the found URL corresponds to what is expected and if it exists.
 The output file is called output.csv and can be opened as a spreadsheet.  
 If it stops running at a given moment (check every 5 to 10 min), delete the input lines related to inputs it has correctly found already and run it again. It does happen with some frequency.  
 The executable open a command prompt window and promts you for your instagram username and password, in order to be able to grab the instagram followers as desired.
 
 Example single output line:  
-Agro Banacaribe,,,,,https://www.instagram.com/agrocaribe19/,0.109,https://www.facebook.com/pages/category/Local-Business/AGROBANACARIBE-509239295831261/,,https://twitter.com/Agro7ca/status/884957666174533632,0.015,https://co.linkedin.com/in/jiovany-p%C3%A9rez-valencia-64b890130,,https://www.youtube.com/watch?v=eNDke7xyBKw,,https://www.bancaribe.com.ve/zona-de-informacion-para-cada-mercado/corporaciones/soluciones-financieras/creditos-soluciones-financieras/linea-agropecuaria,,https://www.bancaribe.com.ve/zona-de-informacion-para-cada-mercado/corporaciones/soluciones-financieras/creditos-soluciones-financieras/linea-agropecuaria,,
+Lafrancol,,,,,https://www.instagram.com/explore/tags/lafrancol/?hl=en,51.368,https://www.facebook.com/pages/category/Medical-Lab/Laboratorio-Lafrancol-SAS-100900988047210/,0.496,https://twitter.com/lafrancol2,0.056,https://www.linkedin.com/company/abbott-laboratories---lafrancol-s.a.s,,https://www.youtube.com/playlist?list=PLWKGG5dUqiMGwDsJyzIVZ8Im4Llnv6vOB,,https://www.tiktok.com/@francoescamillaofficial?lang=en,11300.0,https://www.dnb.com/business-directory/company-profiles.laboratorio_franco_colombiano_lafrancol_s_a_s.368cfa7318e90cc5cc8c7012c6eb1cb2.html,,https://www.dnb.com/business-directory/company-profiles.laboratorio_franco_colombiano_lafrancol_s_a_s.368cfa7318e90cc5cc8c7012c6eb1cb2.html,,
 
 USAGE in Windows
 1. Go to the dist folder
-2. Put what you want to look for in each line of the input file
-3. Clear the output.txt file if needed
+2. Put what you want to look for in each line of the input.txt file
+3. Clear the output.csv file if needed
 4. Run social_media_analyzer_with_input_file.exe by double clicking it
 5. Enter your instagram credentials
 6. Enjoy your time back!
