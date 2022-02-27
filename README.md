@@ -29,9 +29,10 @@ Example single output line:
 Lafrancol,,,,,https://www.instagram.com/explore/tags/lafrancol/?hl=en,51.368,https://www.facebook.com/pages/category/Medical-Lab/Laboratorio-Lafrancol-SAS-100900988047210/,0.496,https://twitter.com/lafrancol2,0.056,https://www.linkedin.com/company/abbott-laboratories---lafrancol-s.a.s,,https://www.youtube.com/playlist?list=PLWKGG5dUqiMGwDsJyzIVZ8Im4Llnv6vOB,,https://www.tiktok.com/@francoescamillaofficial?lang=en,11300.0,https://www.dnb.com/business-directory/company-profiles.laboratorio_franco_colombiano_lafrancol_s_a_s.368cfa7318e90cc5cc8c7012c6eb1cb2.html,,https://www.dnb.com/business-directory/company-profiles.laboratorio_franco_colombiano_lafrancol_s_a_s.368cfa7318e90cc5cc8c7012c6eb1cb2.html,,
 
 USAGE in Windows
-1. Go to the dist folder
-2. Put what you want to look for in each line of the input.txt file
-3. Clear the output.csv file if needed
-4. Run social_media_analyzer_with_input_file.exe by double clicking it
-5. Enter your instagram credentials
-6. Enjoy your time back!
+1. Download the "dist" folder
+2. Go to the downloaded dist folder. Extract it from a zip file if needed
+3. Put what you want to look for in each line of the input.txt file
+4. Clear the output.csv file if needed
+5. Run social_media_analyzer_with_input_file.exe by double clicking it
+6. Enter your instagram credentials
+7. Enjoy your time back!
