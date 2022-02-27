@@ -23,7 +23,8 @@ Each output line will contain:
 The numbers of followers will only appear if the found URL corresponds to what is expected and if it exists.
 The output file is called output.csv and can be opened as a spreadsheet.  
 If it stops running at a given moment (check every 5 to 10 min), delete the input lines related to inputs it has correctly found already and run it again. It does happen with some frequency.  
-The executable open a command prompt window and promts you for your instagram username and password, in order to be able to grab the instagram followers as desired.
+The executable opens a command prompt window and promts you for your instagram username and password, in order to be able to grab the instagram followers as desired.
+Note that the likes count and the followers count of a facebook page mean different things.
 
 Example single output line:  
 Lafrancol,,,,,https://www.instagram.com/explore/tags/lafrancol/?hl=en,51.368,https://www.facebook.com/pages/category/Medical-Lab/Laboratorio-Lafrancol-SAS-100900988047210/,0.496,https://twitter.com/lafrancol2,0.056,https://www.linkedin.com/company/abbott-laboratories---lafrancol-s.a.s,,https://www.youtube.com/playlist?list=PLWKGG5dUqiMGwDsJyzIVZ8Im4Llnv6vOB,,https://www.tiktok.com/@francoescamillaofficial?lang=en,11300.0,https://www.dnb.com/business-directory/company-profiles.laboratorio_franco_colombiano_lafrancol_s_a_s.368cfa7318e90cc5cc8c7012c6eb1cb2.html,,https://www.dnb.com/business-directory/company-profiles.laboratorio_franco_colombiano_lafrancol_s_a_s.368cfa7318e90cc5cc8c7012c6eb1cb2.html,,
