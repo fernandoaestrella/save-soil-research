@@ -3,9 +3,7 @@ import urllib.request
 import json
 
 # name = input("Enter username: ")
-# name = 'UCZAG5hXyBiV-jRosndVfRDQ'
 name = 'Reuters'
-key = 'AIzaSyDOvAD0fHHxszJDScdqKuCjJrVpTLntfJM'
 # data = urllib.request.urlopen(
 #     "https://www.googleapis.com/youtube/v3/search?part=snippet&type=channel&maxResults=1&q="+name).read()
 # print(name + " has " + str(json.loads(data)))
